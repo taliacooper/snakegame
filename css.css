@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://images.pexels.com/photos/261152/pexels-photo-261152.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940");
+    text-align:center;
+
+}
+p{
+    text-align:center;
+    font-size:50px;
+    font-family:"Britannic Bold";
+    color: lawngreen;
+    text-shadow: -1px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+
+}
+center{
+    font-size:30px;
+    font-family:"Lucida Blackletter";
+    color:lightcoral;
+    text-shadow: -1px 0 black, 0 1.5px black, 1px 0 black, 0 -1px black;
+}
+#total{
+    font-size:30px;
+    font-family:"cursive";
+    color: deeppink;
+    text-shadow: -1px 0 black, 0 1.5px black, 1px 0 black, 0 -1px black;
+    text-align:center;
+}
+
+#high{
+    font-size:20px;
+    font-family:"cursive";
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1.5px black, 1px 0 black, 0 -1px black;
+    text-align:center;
+
+}
